@@ -1,1 +1,1 @@
-# Myntra-Business-case-study
+# Project 2
